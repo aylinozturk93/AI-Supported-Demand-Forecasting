@@ -13,7 +13,7 @@ The project demonstrates a Python-based approach for identifying forecast anomal
 # 📊 Sample Output
 
 <p align="center">
-  <img src="Images/anomaly_detection.png" width="900">
+  <img src="images/anomaly_detection.png" width="900">
 </p>
 
 ---
