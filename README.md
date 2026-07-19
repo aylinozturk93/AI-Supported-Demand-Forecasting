@@ -58,10 +58,10 @@ The final output classifies each record based on forecasting performance and pro
 ```text
 AI-Supported-Demand-Forecasting
 
-├── Images/
-│   └── anomaly_output.png
+├── images/
+│   └── anomaly_detection.png
 │
-├── Python/
+├── supply_chain_frontend/
 │   ├── anomaly_detection.py
 │   ├── preprocessing.py
 │   └── ...
